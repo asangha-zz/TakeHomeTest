@@ -35,7 +35,7 @@ The information about the API used can be found [here](https://dev.socrata.com/f
       - javac -cp "..\ExternalJars\*;" -d . ..\src\FoodTruck.java ..\src\FoodTruckService.java  ..\test\*.java
       - java -cp "..\ExternalJars\*;" TestRunner
 
--NOTE: If there are more than 10 results there will be isntructions displayed on the command line on how to see next and previous results.
+-NOTE: If there are more than 10 results there will be instructions displayed on the command line on how to see next and previous results.
  
       
   
